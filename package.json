@@ -1,0 +1,14 @@
+{
+  "name": "stats-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Armin Windlin",
+  "license": "ISC",
+  "dependencies": {
+    "ndjson": "^1.5.0"
+  }
+}

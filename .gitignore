@@ -1,0 +1,33 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#mergetool
+*.orig
+
+#whatever that ist
+*[*
+
+#exclude node modules
+node_modules/*
+
+dist/*
+
+tracks.json
+output1.csv
+output1.json
